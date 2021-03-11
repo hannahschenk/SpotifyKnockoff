@@ -1,0 +1,95 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	color: white;
+	font-family: 'Lilita One', cursive;
+}
+
+h2 {
+	color: white;
+	font-family: 'Lilita One', cursive;
+}
+
+p {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#table {
+  border-collapse: collapse;
+	margin: auto;
+
+}
+
+th, td {
+  padding: 8px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.headerCell {
+	text-align: center;
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+.right {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+	border-radius: 2px;
+}
+
+.right:hover {
+	background-color: gray;
+	color: white;
+}
+
+a {
+	font-family: 'Montserrat', sans-serif;
+}
+
+a:link {
+  text-decoration: none;
+	color: gray;
+}
+
+a:visited {
+	text-decoration: none;
+	color: gray;
+}
+a:hover {
+  text-decoration: none;
+	color: white;
+}
+
+a:active {
+  text-decoration: none;
+		color: white;
+}
+
+
+
+.left {
+	text-align: left;
+	width: 150px;
+}
+.right {
+	text-align: right;
+	right: 400px;
+}
+
+.mid {
+	text-align: center;
+	width: 400px;
+}
